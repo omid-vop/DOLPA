@@ -9,6 +9,9 @@ Ion exchange can modify the physical and optical properties of the glass, such a
 
 The depth of layer (DOL) in ion-exchangeable glasses is a measure of how deep the glass surface is modified by a process of ion exchange, which involves swapping smaller ions in the glass with larger ions from a salt or a solution. The ion exchange can enhance the strength, durability, and optical properties of the glass by creating a compressive stress layer and altering the refractive index of the glass. The depth of layer depends on several factors, such as the composition of the glass, the type and concentration of the salt or solution, and the duration and temperature of the ion exchange process. Typically, the depth of layer ranges from 20 to 150 microns, depending on the desired effect and application of the ion-exchangeable glass.
 
+![](./img/ion-exchange.gif)
+(All credits belong to [SAXON GLASS](https://saxonglass.com/))
+
 This repository contains the full implementation of DOLPA and the replication packages including comprehensive DOL datasets and various machine-learning experiments with manipulated parameters.  
 
 ## Project contributors
