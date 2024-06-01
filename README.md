@@ -15,12 +15,17 @@ The depth of layer (DOL) in ion-exchangeable glasses is a measure of how deep th
 This repository contains the full implementation of DOLPA and the replication packages including comprehensive DOL datasets and various machine-learning experiments with manipulated parameters.  
 
 ## Project contributors
-* **Omid Banapour Ghaffaria** (Ph.D. Candidate, School of Metallurgy and Materials Engineering, Iran University of Science and Technology), email: **omid_banapour[at]metaleng.iust.ac.ir** 
+* **Omid Banapour Ghaffaria** 
+  * Ph.D. Candidate, School of Metallurgy and Materials Engineering, Iran University of Science and Technology
+  * Email: **omid_banapour[at]metaleng.iust.ac.ir** 
 
-* **Bijan Eftekhari Yekta** (Professor, School of Metallurgy and Materials Engineering, Iran University of Science and Technology)email: **Beftekhari[at]iust.ac.ir** , 
+* **Bijan Eftekhari Yekta** 
+  * Professor, School of Metallurgy and Materials Engineering, Iran University of Science and Technology
+  * Email: **Beftekhari[at]iust.ac.ir**
 
-* **Morteza Zakeri-Nasrabadi** (Postdoctoral Researcher, School of Computer Science, Institute for Research in Fundamental Sciences (IPM),  Farmanieh Campus, No. 70, next to Kouhe Nour Building, Lavasani Av. Tehran, Iran. P. O. Box: 19395 - 5746)
-email: **zakeri[at]ipm.ir**
+* **Morteza Zakeri-Nasrabadi** 
+  * Postdoctoral Researcher, School of Computer Science, Institute for Research in Fundamental Sciences (IPM),  Farmanieh Campus, No. 70, next to Kouhe Nour Building, Lavasani Av. Tehran, Iran. P. O. Box: 19395-5746 
+  * Email: **zakeri[at]ipm.ir**
 
 
 
